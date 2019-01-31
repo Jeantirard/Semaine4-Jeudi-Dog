@@ -1,24 +1,9 @@
-# README
+# ReadMe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+pour utiliser le programme faire un 'bundle install'
+puis un 'rails db:migrate' et finalement un 'rails db:seed'
 
-Things you may want to cover:
+# INFO
+creer par Jean Tirard
+programme fait evec ruby on rails (RoR)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
